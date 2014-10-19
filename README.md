@@ -1,3 +1,9 @@
 APPEXAMPLE
 
-Desenvolvimento de um projeto para entender o meta-framework rails e suas gems
+O appexample é um projeto de desenvolvimento de software feito para estudo do meta-framework rails e demais frameworks para Ruby.
+
+O projeto está em construção.
+
+Mais informações em breve...
+
+- Rodrigo Oler
