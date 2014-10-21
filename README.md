@@ -6,10 +6,11 @@ O projeto está em construção.
 
 Mais informações em breve...
 
+
 Ruby 4.1.6
 Rails 2.1.2p95
 
-GEM List
+GEMS
 actionmailer (4.1.6)
 actionpack (4.1.6)
 actionview (4.1.6)
@@ -69,6 +70,5 @@ tilt (1.4.1)
 turbolinks (2.4.0)
 tzinfo (1.2.2)
 uglifier (2.5.3)
-
 
 - Rodrigo Oler
