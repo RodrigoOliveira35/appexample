@@ -6,33 +6,31 @@ O projeto está em construção.
 
 Mais informações em breve...
 
+Ruby 4.1.6.
+Rails 2.1.2p95.
 
-Ruby 4.1.6
-Rails 2.1.2p95
-
-GEMS
-actionmailer (4.1.6)
-actionpack (4.1.6)
-actionview (4.1.6)
-activemodel (4.1.6)
-activerecord (4.1.6)
-activesupport (4.1.6)
-arel (5.0.1.20140414130214)
-bigdecimal (1.2.4)
-builder (3.2.2)
-bundler (1.6.2)
-bundler-unload (1.0.2)
-coderay (1.1.0)
-coffee-rails (4.0.1)
-coffee-script (2.3.0)
-coffee-script-source (1.8.0)
-daemons (1.1.9)
-erubis (2.7.0)
-eventmachine (1.0.3)
-execjs (2.2.2)
-executable-hooks (1.3.2)
-gem-wrappers (1.2.5)
-hike (1.2.3)
+actionmailer (4.1.6).
+actionpack (4.1.6).
+actionview (4.1.6).
+activemodel (4.1.6).
+activerecord (4.1.6).
+activesupport (4.1.6).
+arel (5.0.1.20140414130214).
+bigdecimal (1.2.4).
+builder (3.2.2).
+bundler (1.6.2).
+bundler-unload (1.0.2).
+coderay (1.1.0).
+coffee-rails (4.0.1).
+coffee-script (2.3.0).
+coffee-script-source (1.8.0).
+daemons (1.1.9).
+erubis (2.7.0).
+eventmachine (1.0.3).
+execjs (2.2.2).
+executable-hooks (1.3.2).
+gem-wrappers (1.2.5).
+hike (1.2.3).
 i18n (0.7.0.beta1, 0.6.11)
 io-console (0.4.2)
 jbuilder (2.2.2)
