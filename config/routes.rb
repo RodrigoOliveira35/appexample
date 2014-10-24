@@ -1,8 +1,7 @@
 Rails.application.routes.draw do
-  resources :products
-
   root 'welcome#index'
   resources :customers
+  resources :products
   #resources :welcome
   get 'inicio' => 'welcome#index'
   get 'presentation' => 'presentation#index'
