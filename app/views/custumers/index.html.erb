@@ -1,0 +1,31 @@
+<h1>Listing custumers</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Birthday</th>
+      <th>Obs</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @custumers.each do |custumer| %>
+      <tr>
+        <td><%= custumer.name %></td>
+        <td><%= custumer.email %></td>
+        <td><%= custumer.birthday %></td>
+        <td><%= custumer.obs %></td>
+        <td><%= link_to 'Show', custumer %></td>
+        <td><%= link_to 'Edit', edit_custumer_path(custumer) %></td>
+        <td><%= link_to 'Destroy', custumer, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Custumer', new_custumer_path %>
